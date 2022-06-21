@@ -395,10 +395,6 @@ time {
     padding-right: 40px;
 }
 
-#projects article:is(#adagrams, #viewing-party) {
-    margin-bottom: 0;
-}
-
 .description {
     padding-bottom: 40px;
 }
