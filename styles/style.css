@@ -357,10 +357,6 @@ time {
     text-align: center;
 }
 
-#hey {
-    font-weight: 600;
-}
-
 #projects h2 {
     background-color: black;
     color: var(--mint);
